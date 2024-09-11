@@ -21,7 +21,7 @@ client.on('messageCreate',(message)=> {
         return;
     }
 if (message.content === 'hello') { 
-    message.reply('hey!');
+    message.reply('waaaooo!');
 }
 } )
 
